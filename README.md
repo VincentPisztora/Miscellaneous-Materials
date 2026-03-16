@@ -1,3 +1,3 @@
 # Miscellaneous-Materials
 
-This directory contains miscellaneous materials such as lecture notes and slides from talks I have given.
+This directory contains miscellaneous materials from talks I have given.
